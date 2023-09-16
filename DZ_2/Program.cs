@@ -6,7 +6,7 @@ namespace DZ_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Petunchik");
+            Console.WriteLine("Kukareku");
             Console.ReadKey();
         }
     }
